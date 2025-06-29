@@ -1,2 +1,2 @@
 # demo
-show time
+show time 1
